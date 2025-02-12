@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (OOPKursach.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  OOPKursach Milto.cpp
+D:\source\repos\OOPKursach\OOPKursach\OOPKursach Milto.cpp(501,21): warning C4018: >: несоответствие типов со знаком и без знака
+D:\source\repos\OOPKursach\OOPKursach\OOPKursach Milto.cpp(852,27): warning C4101: width1: неиспользованная локальная переменная
+  OOPKursach.vcxproj -> D:\source\repos\OOPKursach\Debug\OOPKursach Milto.exe
